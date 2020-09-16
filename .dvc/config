@@ -1,0 +1,2 @@
+['remote "hdfs_remote"']
+    url = hdfs://117.50.13.35:9000/cache
